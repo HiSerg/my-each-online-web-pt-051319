@@ -5,6 +5,6 @@ def my_each (array)
     puts i 
     x += 1
   end 
-  
+  array
   
 end
